@@ -16,3 +16,4 @@ fs.writeFile("./index.html", pageHTML, (err) => {
 
   console.log("Portfolio complete! Check out index.html to see the output!");
 });
+// left off at 9.3.1
